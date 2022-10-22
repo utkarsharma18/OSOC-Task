@@ -1,0 +1,31 @@
+body{
+	background-image:url('levi-loot-1l0dOhOPeyQ-unsplash.jpg') ;
+    background-size: cover;
+    color: #fff;
+	font-family: Inconsolata;
+	font-weight: 500;
+}
+.heading{
+	border-bottom: 2px solid rgb(255, 255, 255);
+	padding-bottom: 20px;
+}
+p {
+    margin: 20px;
+	font-size: 20px;
+}
+.next{
+	text-align: center;
+	display: inline-block;
+	line-height: 55px;
+	background: #e83859;
+	width: 100%;
+	margin-top: 20px;
+	color: whitesmoke;
+	width: 170px; 
+	border-radius: 30px;
+	font-size: 20px;
+	font-family:initial;
+}
+.heads{
+font-weight: 900px;
+}
